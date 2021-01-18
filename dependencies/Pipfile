@@ -8,10 +8,16 @@ verify_ssl = true
 [packages]
 black = "*"
 cfn-lint = "*"
+cython = "*"
 flake8 = "*"
 pylint = "*"
+isort = "*"
+snakefmt = "*"
+snakemake = "*"
 yamllint = "*"
+typing_extensions = "*"
 yq = "*"
+ansible-lint = "*"
 
 [requires]
 python_version = "3.8"

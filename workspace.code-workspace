@@ -1,7 +1,12 @@
 {
-    "folders": [
-        {
-            "path": "..\\..\\..\\.docker"
-        }
-    ]
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "buildx",
+			"path": "..\\..\\..\\.docker\\buildx"
+		}
+	],
+	"settings": {}
 }
