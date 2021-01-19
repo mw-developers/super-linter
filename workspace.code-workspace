@@ -9,6 +9,13 @@
 		}
 	],
 	"settings": {
-		"git.ignoreLimitWarning": true
+		"git.ignoreLimitWarning": true,
+		"files.autoSave": "onWindowChange",
+		"files.autoGuessEncoding": true,
+		"search.quickOpen.includeSymbols": true,
+		"go.gotoSymbol.includeGoroot": true,
+		"go.gotoSymbol.includeImports": true,
+		"json.schemas": [
+		]
 	}
 }
